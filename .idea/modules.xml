@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aumento_Decremento_Num_19/Aumento_Decremento_Num_19.iml" filepath="$PROJECT_DIR$/Aumento_Decremento_Num_19/Aumento_Decremento_Num_19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bucles Ejercicios/Bucles Ejercicios.iml" filepath="$PROJECT_DIR$/Bucles Ejercicios/Bucles Ejercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Do_While_27/Do_While_27.iml" filepath="$PROJECT_DIR$/Do_While_27/Do_While_27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectura de Datos por Teclado 17/Lectura de Datos por Teclado 17.iml" filepath="$PROJECT_DIR$/Lectura de Datos por Teclado 17/Lectura de Datos por Teclado 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/Scanner/Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion 3-Condicionales/Seccion 3-Condicionales.iml" filepath="$PROJECT_DIR$/Seccion 3-Condicionales/Seccion 3-Condicionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrapper Class Conve Datos 18/Wrapper Class Conve Datos 18.iml" filepath="$PROJECT_DIR$/Wrapper Class Conve Datos 18/Wrapper Class Conve Datos 18.iml" />
       <module fileurl="file://$PROJECT_DIR$/newProject.iml" filepath="$PROJECT_DIR$/newProject.iml" />
     </modules>
   </component>
